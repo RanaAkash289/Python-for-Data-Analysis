@@ -23,8 +23,10 @@ This project involves performing **Sentiment Analysis** on tweets mentioning **#
 ### 📊 Visualizations:
 1. **Sentiment Distribution**:
    - A bar chart representing the count of positive, neutral, and negative sentiments in the tweets. It provides a quick understanding of the general perception of ChatGPT online.
+
 ![image](https://github.com/user-attachments/assets/4a59f051-4297-4c6e-9439-fcadc0d2beb5)
 
 2. **Word Cloud**:
    - A word cloud of frequently mentioned words in tweets related to ChatGPT, highlighting the key topics and discussions in the public discourse.
+
 ![image](https://github.com/user-attachments/assets/223b5a7d-67d5-49fc-b03a-d7ac6137950e)
